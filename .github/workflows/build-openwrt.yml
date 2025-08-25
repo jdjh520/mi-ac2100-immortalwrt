@@ -12,7 +12,7 @@ name: Build OpenWrt
 
 env:
   REPO_URL: https://github.com/openwrt/openwrt
-  REPO_BRANCH: v23.5.6
+  REPO_BRANCH: v21.02.7
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: mi-ac2100.config
   DIY_P1_SH: diy-part1.sh
